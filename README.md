@@ -1,4 +1,3 @@
-# hakan-mangata
 {
   "name": "hakan",
   "website": "https://github.com/0xHakann",
